@@ -9,19 +9,12 @@ This React application allows users to vote for their favorite fruit. The votes 
 ## Demo
 
 - **CodeSandbox Link**: [Click here to open the project](https://codesandbox.io/p/sandbox/c937yf?file=%2Fsrc%2FApp.js)  
-  *(Replace `#` with your unlisted CodeSandbox URL.)*
-
-For UI references, please refer to the provided demo video in the assignment instructions.
-
----
+  
 
 
-
----
 
 ## Getting Started
 
-### 1. Open in CodeSandbox
 
 1. Go to the **CodeSandbox Link** provided above.
 
